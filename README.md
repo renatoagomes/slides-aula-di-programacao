@@ -1,11 +1,12 @@
 # Templates para slides do Reveal.js
 
-**Descrição**: Esse é o repositório base com a estrutura padrao de apresentacoes utilizada pelo Grupo Tesseract
-- Baseado no projeto open-source [reveal-js](http://lab.hakim.se/reveal-js/#/).
+**Descrição**: Esse é o repositório base com a estrutura padrão das apresentações feitas pelo [Grupo Tesseract](http://grupotesseract.com.br).
 
-## Branchs
-**master**: Core básico com, dividido em index e uma pasta slides com os capitulos e partes pre/pós apresentacao.
-**repasse-mensal**: Estrutura tirada á partir da master, com adaptacao na estrutura das pastas
+ - Baseado no projeto open-source [reveal-js](http://lab.hakim.se/reveal-js/#/).
+
+## Branches
+**master**: Core básico com, dividido em index e uma pasta slides com os capítulos e partes pré/pós apresentação.
+**repasse-mensal**: Estrutura tirada á partir da master, com adaptação na estrutura das pastas
 
 ## Requisitos
 
