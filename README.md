@@ -6,6 +6,7 @@
 
 ## Branches
 **master**: Core básico com, dividido em index e uma pasta slides com os capítulos e partes pré/pós apresentação.
+
 **repasse-mensal**: Estrutura tirada á partir da master, com adaptação na estrutura das pastas
 
 ## Requisitos
