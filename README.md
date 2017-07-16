@@ -1,13 +1,12 @@
-# Templates para slides do Reveal.js
+# Aula/Palestra - Um pouco sobre 'programação'
 
-**Descrição**: Esse é o repositório base com a estrutura padrão das apresentações feitas pelo [Grupo Tesseract](http://grupotesseract.com.br).
+**Descrição**: Slides que serão usados para guiar a aula para o 2º Ano de Design. A intenção da aula é passar alguns conceitos/noçoes/exemplos em torno de alguns elementos dentro dessa área da 'programação'.
+**Local**: Sala ??, UNESP, Bauru, SP
+**Datas**: 
+    - 18/07/2017 10h~12h
+    - 20/07/2017 19h~21h && 21h~23h
 
  - Baseado no projeto open-source [reveal-js](http://lab.hakim.se/reveal-js/#/).
-
-## Branches
-**master**: Core básico com, dividido em index e uma pasta slides com os capítulos e partes pré/pós apresentação.
-
-**repasse-mensal**: Estrutura tirada á partir da master, com adaptação na estrutura das pastas
 
 ## Requisitos
 
@@ -17,8 +16,8 @@
 ## Instalação
 
 ``` sh
-git clone git@github.com:grupotesseract/slides-minicurso-laravel.git
-cd slides-minicurso-laravel
+git clone git@github.com:renatoagomes/slides-aula-di-programacao.git
+cd slides-aula-di-programacao.git
 npm i
 npm start
 ```
