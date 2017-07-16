@@ -1,6 +1,6 @@
 # Aula/Palestra - Um pouco sobre 'programação'
 
-**Descrição**: Slides que serão usados para guiar a aula para o 2º Ano de Design. A intenção da aula é passar alguns conceitos/noçoes/exemplos em torno de alguns elementos dentro dessa área da 'programação'.
+**Descrição**: Slides que serão usados para guiar a aula da materia Recursos Computacionais para o 2º Ano de Design. A intenção da aula é passar alguns conceitos/noçoes/exemplos em torno de alguns elementos dentro dessa área da 'programação'.
 **Local**: Sala ??, UNESP, Bauru, SP
 **Datas**: 
     - 18/07/2017 10h~12h
